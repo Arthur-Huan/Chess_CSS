@@ -1,0 +1,57 @@
+/* ==UserStyle==
+@name         
+@namespace    USO Archive
+@author       Arthur Huan
+@description  
+@version      1.0.0
+@preprocessor uso
+==/UserStyle== */
+@-moz-document domain("lichess.org") {
+    .is2d .pawn.white {
+        background-image: url("")!important;
+    }
+
+    .is2d .pawn.black {
+        background-image: url("")!important;
+    }
+
+    .is2d .knight.white {
+        background-image: url("")!important;
+    }
+
+    .is2d .knight.black {
+        background-image: url("")!important;
+    }
+
+    .is2d .bishop.white {
+        background-image: url("")!important;
+    }
+
+    .is2d .bishop.black {
+        background-image: url("")!important;
+    }
+
+    .is2d .rook.white {
+        background-image: url("")!important;
+    }
+
+    .is2d .rook.black {
+        background-image: url("")!important;
+    }
+
+    .is2d .queen.white {
+        background-image: url("")!important;
+    }
+
+    .is2d .queen.black {
+        background-image: url("")!important;
+    }
+
+    .is2d .king.white {
+        background-image: url("")!important;
+    }
+
+    .is2d .king.black {
+        background-image: url("")!important;
+    }
+}
