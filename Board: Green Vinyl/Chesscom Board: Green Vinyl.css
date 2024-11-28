@@ -2,7 +2,6 @@
 @name         Chess.com Board: Green Vinyl
 @namespace    USO Archive
 @author       Arthur Huan
-@description  A board inspired by the green vinyl rollup boards common at tournaments
 @version      1.0.0
 @preprocessor uso
 ==/UserStyle== */
@@ -12,13 +11,5 @@
     }
     .board {
         background-image: var(--theme-board-style-image) !important;
-    }
-
-    .coordinate-light {
-        fill: #28A399 !important;
-    }
-
-    .coordinate-dark {
-        fill: #FFFFF7 !important;
     }
 }

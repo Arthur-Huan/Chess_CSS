@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name         Lichess Board: Green Vinyl
+@namespace    USO Archive
+@author       Arthur Huan
+@description  A board inspired by the green vinyl rollup boards common at tournaments
+@version      1.0.0
+@preprocessor uso
+==/UserStyle== */
+@-moz-document domain("lichess.org") {
+    .is2d cg-board::before {
+        background-image: url("") !important;
+    }
+}

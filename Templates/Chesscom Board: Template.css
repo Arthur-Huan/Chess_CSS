@@ -1,0 +1,15 @@
+/* ==UserStyle==
+@name         Chess.com Board: Template
+@namespace    USO Archive
+@author       Arthur Huan
+@version	  1.0.0
+@preprocessor uso
+==/UserStyle== */
+@-moz-document domain("chess.com") {
+    :root {
+        --theme-board-style-image: url("") !important;
+    }
+    .board {
+        background-image: var(--theme-board-style-image) !important;
+    }
+}
